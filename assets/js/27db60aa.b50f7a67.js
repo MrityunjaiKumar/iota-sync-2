@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4922],{9006:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/iota-sync-2/blog/tags/hello","allTagsPath":"/iota-sync-2/blog/tags","count":2}')}}]);
