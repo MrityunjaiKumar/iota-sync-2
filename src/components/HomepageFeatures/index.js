@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'ESP8266 Powered IOT connectivity',
+    title: 'ESP8266 and GSM Powered IOT connectivity',
     Svg: require('@site/static/img/iot-icon.svg').default,
     description: (
       <>
