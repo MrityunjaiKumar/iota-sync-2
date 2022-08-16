@@ -91,7 +91,7 @@ To use this us have to short the two pins in **vertical manner** as shown in the
 
 There after use the serial monitor on the IO5 and IO4 from ESP8266 side.
 
-** Caution: I05 and I04 on ESP8266 side are same pins which are used for I2C. so make sure that its pulled up from backside  before using. **
+** Caution: I05 and I04 on ESP8266 side are same pins which are used for I2C. so make sure that its not pulled up from backside  before using. **
 
 ### AVR IC to ESP8266 Communication
 As shown in the [hardware block of the board](#know-about-hardware-blocks), AVR and ESP8266 boards are communicating via UART. This provision made optional on the board to facilitate the user, to use same pin on ESP8266 for some other purpose. 

@@ -17,5 +17,5 @@ Inside the attached function, delay() won’t work and the value returned by mil
 ### USAGE
 Interrupts are useful for making things happen automatically in microcontroller programs, and can help solve timing problems. Good tasks for using an interrupt may include reading a rotary encoder, or monitoring user input.
 
-### Software
+### Softwares
 ![](img/lecture9_pg6.JPG)

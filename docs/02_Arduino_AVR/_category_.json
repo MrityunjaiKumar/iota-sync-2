@@ -1,5 +1,5 @@
 {
-  "label": "Arduino Tutorials",
+  "label": "Arduino (AVR) Tutorials",
   "position": 2,
   "link": {
     "type": "generated-index"
